@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.AfterEach;
 
-class RefreshTest {
+class RefreshTest { 
 
 	PrintStream outputConsole;
 	ByteArrayOutputStream byteOutputStream;
